@@ -1,0 +1,18 @@
+@use './variables';
+
+*, *::after, *::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  width: 100%;
+  height: 100vh;
+  background-color: variables.$clr-primary-cream;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: variables.$fs-primary;
+}
