@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Drasenberg/react-prev-card-component)
-- Live Site URL: [Add live site URL here](https://drasenberg.github.io/react-prev-card-component/)
+- Solution URL: [React Preview Card Componenet](https://github.com/Drasenberg/react-prev-card-component)
+- Live Site URL: [React Preview Card Componenet](https://drasenberg.github.io/react-prev-card-component/)
 
 ## My process
 
@@ -36,7 +36,7 @@ Users should be able to:
 
 ## Author
 
-- Github - [Add your name here](https://github.com/Drasenberg)
+- Github - [Drasenberg](https://github.com/Drasenberg)
 - Frontend Mentor - [@Drasenberg](https://www.frontendmentor.io/profile/Drasenberg)
 - LinkedIn - [@Maciej Woźniak](https://www.linkedin.com/in/maciej-wo%C5%BAniak-1b6559192/)
 
