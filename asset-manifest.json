@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-prev-card-component/static/css/main.4b3abca1.css",
+    "main.js": "/react-prev-card-component/static/js/main.8ed2087a.js",
+    "static/media/image-product-desktop.jpg": "/react-prev-card-component/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "static/media/image-product-mobile.jpg": "/react-prev-card-component/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "index.html": "/react-prev-card-component/index.html",
+    "main.4b3abca1.css.map": "/react-prev-card-component/static/css/main.4b3abca1.css.map",
+    "main.8ed2087a.js.map": "/react-prev-card-component/static/js/main.8ed2087a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b3abca1.css",
+    "static/js/main.8ed2087a.js"
+  ]
+}
